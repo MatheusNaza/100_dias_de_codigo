@@ -15,5 +15,11 @@ Repositorio criado com a intecao de colocar todas as atividades desenvolvidas du
 ## 🗂️ DIA 1 
 
 <p align="justify">
-Desafio do dia : Criar um arquivo HTML e mostrar na pagina um " HELLO WORLD " 
+Desafio do dia : Criar um arquivo HTML e mostrar na pagina um " HELLO WORLD ".
+</p>
+
+## 🗂️ DIA 2 
+
+<p align="justify">
+Desafio do dia : Escreva um programa que receba dois numeros do usuario e imprima a soma deles. 
 </p>
